@@ -1,0 +1,13 @@
+S:\Free\NET\Ornekler\SecimGrafik\SecimGrafik\bin\Debug\SecimGrafik.exe.config
+S:\Free\NET\Ornekler\SecimGrafik\SecimGrafik\bin\Debug\SecimGrafik.exe
+S:\Free\NET\Ornekler\SecimGrafik\SecimGrafik\bin\Debug\SecimGrafik.pdb
+S:\Free\NET\Ornekler\SecimGrafik\SecimGrafik\obj\Debug\SecimGrafik.csprojResolveAssemblyReference.cache
+S:\Free\NET\Ornekler\SecimGrafik\SecimGrafik\obj\Debug\SecimGrafik.Form1.resources
+S:\Free\NET\Ornekler\SecimGrafik\SecimGrafik\obj\Debug\SecimGrafik.Properties.Resources.resources
+S:\Free\NET\Ornekler\SecimGrafik\SecimGrafik\obj\Debug\SecimGrafik.csproj.GenerateResource.Cache
+S:\Free\NET\Ornekler\SecimGrafik\SecimGrafik\obj\Debug\SecimGrafik.exe
+S:\Free\NET\Ornekler\SecimGrafik\SecimGrafik\obj\Debug\SecimGrafik.pdb
+S:\Free\NET\Ornekler\SecimGrafik\SecimGrafik\bin\Debug\SecimGrafik.exe.manifest
+S:\Free\NET\Ornekler\SecimGrafik\SecimGrafik\bin\Debug\SecimGrafik.application
+S:\Free\NET\Ornekler\SecimGrafik\SecimGrafik\obj\Debug\SecimGrafik.exe.manifest
+S:\Free\NET\Ornekler\SecimGrafik\SecimGrafik\obj\Debug\SecimGrafik.application
